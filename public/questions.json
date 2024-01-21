@@ -1,0 +1,90 @@
+[
+    {
+        "id": 0,
+        "question": "¿Cuanto es 2 + 5?",
+        "correctAnswer" : 7,
+        "hasAlternatives": false,
+        "subject" : "Matematicas",
+        "grade": 0
+    },
+    {
+        "id": 1,
+        "question": "¿Cuánto es 8 + 3 - 5 + 9?",
+        "correctAnswer": 15,
+        "hasAlternatives": false,
+        "subject": "Matematicas",
+        "grade": 1
+    },
+    {
+        "id": 2,
+        "question": "¿Cuántas patas tiene una araña?",
+        "correctAnswer": 8,
+        "hasAlternatives": false,
+        "subject": "Ciencias",
+        "grade": 2
+    },
+    {
+        "id": 3,
+        "question": "¿Cuál es la capital de Francia?",
+        "correctAnswer": "París",
+        "hasAlternatives": false,
+        "subject": "Geografia",
+        "grade": 3
+    },
+    {
+        "id": 4,
+        "question": "¿Quién escribió 'Don Quijote de la Mancha'?",
+        "correctAnswer": "Miguel de Cervantes",
+        "hasAlternatives": false,
+        "subject": "Literatura",
+        "grade": 4
+    },
+    {
+        "id": 5,
+        "question": "¿Cuál es el símbolo químico del oro?",
+        "correctAnswer": "Au",
+        "hasAlternatives": false,
+        "subject": "Quimica",
+        "grade": 5
+    },
+    {
+        "id": 6,
+        "question": "¿Cuántos lados tiene un heptágono?",
+        "correctAnswer": "7",
+        "hasAlternatives": false,
+        "subject": "Geometry",
+        "grade": 6
+    },
+    {
+        "id": 7,
+        "question": "¿En qué año se independizó Estados Unidos?",
+        "correctAnswer": "1776",
+        "hasAlternatives": false,
+        "subject": "Historia",
+        "grade": 7
+    },
+    {
+        "id": 8,
+        "question": "¿Cuál es la capital de Japón?",
+        "correctAnswer": "Tokio",
+        "hasAlternatives": false,
+        "subject": "World Cultures",
+        "grade": 8
+    },
+    {
+        "id": 9,
+        "question": "¿Cuál es la fórmula del agua?",
+        "correctAnswer": "H2O",
+        "hasAlternatives": false,
+        "subject": "Quimica",
+        "grade": 9
+    },
+    {
+        "id": 10,
+        "question": "¿Quién fue el primer presidente de un país sudamericano?",
+        "correctAnswer": "José de la Riva-Agüero",
+        "hasAlternatives": false,
+        "subject": "Historia",
+        "grade": 10
+    }
+]
